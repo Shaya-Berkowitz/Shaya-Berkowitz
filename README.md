@@ -58,23 +58,6 @@ Python • FastAPI • PostgreSQL • OpenAI • FAISS • Pinecone • Docker �
 
 ---
 
-## AI Email Summarizer
-
-Backend service that connects to Gmail and Outlook accounts and generates AI summaries of unread emails.
-
-**Features**
-
-* Gmail and Microsoft OAuth integration
-* Background email sync jobs
-* AI-generated summaries using OpenAI
-* Rate-limited REST API endpoints
-* Prisma ORM database layer
-
-Tech:
-Node.js • TypeScript • Express • Prisma • OpenAI
-
----
-
 ## LC4 Assembler & Disassembler
 
 C-based assembler and disassembler for the LC4 architecture.
@@ -89,6 +72,23 @@ C-based assembler and disassembler for the LC4 architecture.
 
 Tech:
 C • Systems Programming • Binary Encoding • Makefiles
+
+---
+
+## [AI Email Summarizer] (https://github.com/Shaya-Berkowitz/email-summarizer)
+
+Backend service that connects to Gmail and Outlook accounts and generates AI summaries of unread emails.
+
+**Features**
+
+* Gmail and Microsoft OAuth integration
+* Background email sync jobs
+* AI-generated summaries using OpenAI
+* Rate-limited REST API endpoints
+* Prisma ORM database layer
+
+Tech:
+Node.js • TypeScript • Express • Prisma • OpenAI
 
 ---
 
@@ -112,4 +112,4 @@ C • Systems Programming • Binary Encoding • Makefiles
 ---
 
 # Connect
-LinkedIn: https://www.linkedin.com/in/isaiahberkowitz/
+[LinkedIn Profile] (https://www.linkedin.com/in/isaiahberkowitz/)
