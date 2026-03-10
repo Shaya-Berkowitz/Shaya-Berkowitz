@@ -112,6 +112,4 @@ C • Systems Programming • Binary Encoding • Makefiles
 ---
 
 # Connect
-
-GitHub: https://github.com/YOURUSERNAME
-LinkedIn: https://linkedin.com/in/YOURPROFILE
+[LinkedIn: https://linkedin.com/in/](https://www.linkedin.com/in/isaiahberkowitz/)
