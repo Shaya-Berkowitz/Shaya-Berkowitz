@@ -40,7 +40,7 @@ Docker • Git • GitHub • CI/CD
 
 # Featured Projects
 
-## AI Knowledge Platform
+## [AI Knowledge Platform](https://github.com/Shaya-Berkowitz/ai-knowledge-base-search)
 
 RAG-based knowledge assistant that ingests documents and answers questions with source citations.
 
@@ -53,7 +53,7 @@ RAG-based knowledge assistant that ingests documents and answers questions with 
 * FastAPI backend with REST endpoints
 * React frontend for querying documents
 
-Tech
+Tech: 
 Python • FastAPI • PostgreSQL • OpenAI • FAISS • Pinecone • Docker • React
 
 ---
@@ -70,7 +70,7 @@ Backend service that connects to Gmail and Outlook accounts and generates AI sum
 * Rate-limited REST API endpoints
 * Prisma ORM database layer
 
-Tech
+Tech:
 Node.js • TypeScript • Express • Prisma • OpenAI
 
 ---
@@ -87,7 +87,7 @@ C-based assembler and disassembler for the LC4 architecture.
 * Bit-level instruction decoding
 * Modular C libraries with Makefile builds
 
-Tech
+Tech:
 C • Systems Programming • Binary Encoding • Makefiles
 
 ---
@@ -112,4 +112,4 @@ C • Systems Programming • Binary Encoding • Makefiles
 ---
 
 # Connect
-LinkedIn: (https://www.linkedin.com/in/isaiahberkowitz/)
+LinkedIn: https://www.linkedin.com/in/isaiahberkowitz/
