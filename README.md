@@ -112,4 +112,4 @@ C • Systems Programming • Binary Encoding • Makefiles
 ---
 
 # Connect
-[LinkedIn: https://linkedin.com/in/](https://www.linkedin.com/in/isaiahberkowitz/)
+LinkedIn: (https://www.linkedin.com/in/isaiahberkowitz/)
