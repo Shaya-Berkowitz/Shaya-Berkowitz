@@ -75,7 +75,7 @@ C • Systems Programming • Binary Encoding • Makefiles
 
 ---
 
-## [AI Email Summarizer] (https://github.com/Shaya-Berkowitz/email-summarizer)
+## [AI Email Summarizer](https://github.com/Shaya-Berkowitz/email-summarizer)
 
 Backend service that connects to Gmail and Outlook accounts and generates AI summaries of unread emails.
 
@@ -112,4 +112,4 @@ Node.js • TypeScript • Express • Prisma • OpenAI
 ---
 
 # Connect
-[LinkedIn Profile] (https://www.linkedin.com/in/isaiahberkowitz/)
+[LinkedIn Profile](https://www.linkedin.com/in/isaiahberkowitz/)
